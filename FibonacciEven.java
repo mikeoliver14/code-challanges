@@ -17,7 +17,6 @@ public class FibonacciEven {
 			temp = a;
 			a = b;
 			b = a + temp;
-			System.out.println(b);
 			
 		}
 		
